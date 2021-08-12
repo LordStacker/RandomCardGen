@@ -1,0 +1,29 @@
+body {
+    background: green;
+}
+.card{
+    background: white;
+    height: 300px;
+    width: 150px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.number{
+    position: relative;
+    top: 56px;
+    left: 58px;
+    font-size: 50px;
+}
+.top {
+    margin-left: 5px;
+    font-size: 50px;
+}
+.bottom{
+    font-size: 50px;
+    position: relative;
+    top: 130px;
+    left: 115px;
+    transform: scaleY(-1);
+
+}
